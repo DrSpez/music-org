@@ -1,0 +1,93 @@
+#+TITLE: Musical modes
+
+* Minor               T S T T S T T
+** natural           [_ _ _ _ _ _ _]
+
+   AKA:
+*** Aeolian mode
+
+** harmonic          [_ _ _ _ _ _ #]
+
+   AKA:
+*** harmonic minor
+*** Aeolian #7
+
+** double harmonic   [_ _ _ # _ _ #]
+
+   AKA:
+*** Gypsy minor
+*** Hungarian minor
+
+** melodic           [_ _ _ _ _ # #]
+
+   AKA:
+*** melodic minor
+
+** Dorian            [_ _ _ _ _ # _]
+
+   AKA:
+*** Dorian mode
+*** Doric mode
+
+** Phrygian          [_ b _ _ _ _ _]
+   NOTE: often used with major third (see Phrygian dominant)
+
+** Phrygian dominant [_ b # _ _ _ _]
+   NOTE: same as Phrygian major
+
+   AKA:
+*** Phrygian major
+*** Spanish gypsy scale
+
+** Dorian-Phrygian   [_ b _ _ _ # _]
+   
+   AKA:
+*** Dorian-Phrygian mode
+   
+
+* Major               T T S T T T S
+** natural           [_ _ _ _ _ _ _]
+
+   AKA:
+*** Ionian mode
+
+** harmonic          [_ _ _ _ _ b _]
+
+   AKA:
+*** harmonic major
+*** Ionian b6
+
+** double harmonic   [_ b _ _ _ b _]
+
+   AKA:
+*** Gypsy major
+*** Arabic major
+*** Byzantine scale
+
+** melodic           [_ _ _ _ _ b b]
+
+   AKA:
+*** melodic major
+
+** Lydian            [_ _ _ # _ _ _]
+   NOTE: Most commonly used with 7b (see Lyd-Mix)
+
+   AKA:
+*** Lydian mode
+
+** Mixolydian        [_ _ _ _ _ _ b]
+   NOTE: Most commonly used with 7b (see Lyd-Mix)
+
+   AKA:
+*** Mixolydian mode
+
+** Lydian-Mixolydian [_ _ _ # _ _ b]
+
+   AKA:
+*** Lydian-Mixolydian major
+** Phrygian major    [_ b _ _ _ b b]
+   NOTE: same as Phrygian dominant <=> Phrygian minor with major third
+
+   AKA:
+*** Phrygian dominant
+*** Spanish gypsy scale
