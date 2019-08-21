@@ -1,5 +1,28 @@
 #+TITLE: Musical modes
 
+|-----------------------+---------------+-----------------------------------------------------|
+| Scale name            | Rel. schema   | Comments                                            |
+|-----------------------+---------------+-----------------------------------------------------|
+| natural minor         | _ _ _ _ _ _ _ | T S T T S T T AKA: Aeolian mode                     |
+| harmonic minor        | _ _ _ _ _ _ # | AKA: Aeolian #7                                     |
+| double harmonic minor | _ _ _ # _ _ # | AKA: Gypsy minor, Hungarian minor                   |
+| melodic minor         | _ _ _ _ _ # # | harmonic + #6                                       |
+| Dorian                | _ _ _ _ _ # _ | AKA: Dorian mode, Doric mode                        |
+| Phrygian              | _ b _ _ _ _ _ | Often used with major third (see Phrygian dominant) |
+| Phrygian dominant     | _ b # _ _ _ _ | AKA: Phrygian major, Spanish Gypsy scale            |
+| Dorian-Phrygian       | _ b _ _ _ # _ | Dorian + Phrygian                                   |
+|-----------------------+---------------+-----------------------------------------------------|
+| narural major         | _ _ _ _ _ _ _ | T T S T T T S AKA: Ionian mode                      |
+| harmonic major        | _ _ _ _ _ b _ | AKA: Ionian b6                                      |
+| double harmonic major | _ b _ _ _ b _ | AKA: Gypsy major, Arabic major, Byzantine scale     |
+| melodic major         | _ _ _ _ _ b b |                                                     |
+| Mixolydian            | _ _ _ _ _ _ b |                                                     |
+| Lydian                | _ _ _ # _ _ _ | Often used with 7b (see Lydian-Mixolydian scale)    |
+| Lydian-Mixolydian     | _ _ _ # _ _ b |                                                     |
+| Phrygian major        | _ b _ _ _ b b | AKA: Phrygian dominant, Spanish Gypsy scaly         |
+|-----------------------+---------------+-----------------------------------------------------|
+
+
 * Minor               T S T T S T T
 ** natural           [_ _ _ _ _ _ _]
 
@@ -69,17 +92,15 @@
    AKA:
 *** melodic major
 
+** Mixolydian        [_ _ _ _ _ _ b]
+   AKA:
+*** Mixolydian mode
+
 ** Lydian            [_ _ _ # _ _ _]
    NOTE: Most commonly used with 7b (see Lyd-Mix)
 
    AKA:
 *** Lydian mode
-
-** Mixolydian        [_ _ _ _ _ _ b]
-   NOTE: Most commonly used with 7b (see Lyd-Mix)
-
-   AKA:
-*** Mixolydian mode
 
 ** Lydian-Mixolydian [_ _ _ # _ _ b]
 
